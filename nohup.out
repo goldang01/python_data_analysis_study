@@ -1,0 +1,18 @@
+[I 14:48:26.928 NotebookApp] Serving notebooks from local directory: /home/ubuntu/python/python_data_analysis_study
+[I 14:48:26.928 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 14:48:26.928 NotebookApp] http://ip-172-31-38-146:8888/?token=a0d0eb526ea03d1ee62d13a192bce4b9f8de614e961d5a70
+[I 14:48:26.928 NotebookApp]  or http://127.0.0.1:8888/?token=a0d0eb526ea03d1ee62d13a192bce4b9f8de614e961d5a70
+[I 14:48:26.928 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:48:26.934 NotebookApp] No web browser found: could not locate runnable browser.
+[C 14:48:26.934 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-1862-open.html
+    Or copy and paste one of these URLs:
+        http://ip-172-31-38-146:8888/?token=a0d0eb526ea03d1ee62d13a192bce4b9f8de614e961d5a70
+     or http://127.0.0.1:8888/?token=a0d0eb526ea03d1ee62d13a192bce4b9f8de614e961d5a70
+[I 14:48:38.172 NotebookApp] Creating new notebook in 
+[I 14:48:39.861 NotebookApp] Kernel started: 43fb8db1-9fe7-406a-a983-e78f47e0ebf3, name: python3
+[W 14:48:39.880 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20210422144826 (123.254.242.143) 9.500000ms referer=http://52.79.173.121:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 14:49:59.097 NotebookApp] Saving file at /Do Won Resolution  21_04_22.ipynb
+[I 14:49:59.974 NotebookApp] Saving file at /Do Won Resolution  21_04_22.ipynb
